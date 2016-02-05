@@ -1,4 +1,4 @@
 # react-starter-ingredients
 Following React.js course
 
-Lesson 2 - Ingredients list
+Lesson 3 - Ingredients list styled
